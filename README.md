@@ -1,5 +1,8 @@
 # Movie-Flix
 
+Live Link: https://movie-flix-f54cd.web.app
+
+
 npm packages used: axios, express, mongoose, cors, body-parser
 
 firebase hosting
