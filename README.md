@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Movie-Flix
+
+npm packages used: axios, express, mongoose, cors, body-parser
+
+firebase hosting
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
