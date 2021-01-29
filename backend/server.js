@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(Cors());
 
 // DB config, I am using mongo atlas, local mongo is also okay
-const connection_url = 'mongodb+srv://abir100:abir100@cluster0.9yqhd.mongodb.net/movie-flix?retryWrites=true&w=majority';
+const connection_url = 'mongodb+srv://<user>:<pass>@cluster0.9yqhd.mongodb.net/movie-flix?retryWrites=true&w=majority';
 
 const conn = mongoose.connect(connection_url, {
         useNewUrlParser: true,
